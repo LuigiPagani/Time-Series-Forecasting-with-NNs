@@ -28,8 +28,6 @@ The dataset used for this project can be found [here](https://www.kaggle.com/dat
 - Flavia Petruso ([@fl-hi1](https://github.com/fl-hi1))
 - Federico Schermi ([@federicoschermi](https://github.com/federicoschermi))
 
-## Output
-
 Check out the final [`report.pdf`](./report_final.pdf).
 
 ## References
